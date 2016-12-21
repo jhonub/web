@@ -34,7 +34,6 @@ my-web/
     "paginate": true,
     "count": 5,
     "sort": { "name": 1 },
-    ],
     "filter": {},
     "fields": {}
   }
